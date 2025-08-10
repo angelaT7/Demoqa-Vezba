@@ -1,0 +1,23 @@
+{
+  "name": "demoqa-vezba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelaT7/Demoqa-Vezba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/angelaT7/Demoqa-Vezba/issues"
+  },
+  "homepage": "https://github.com/angelaT7/Demoqa-Vezba#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1"
+  }
+}
